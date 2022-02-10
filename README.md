@@ -1,6 +1,8 @@
 # raylib_GLTF
 GLTF loader for raylib with more features
 
+- Node Transformations (Proper placement of multiple meshes in their respective local space inside a GLTF file)
+
 Use:
 include "raylib_GLTF.h" in your source, static link.
 
